@@ -21,4 +21,7 @@ In C++ with Qt and Sqlite3
 * **Ibrahim Sluma* - *Student* - [FaceBook](https://www.facebook.com/ibrahim.sluma)
 
 # Donation
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](Nounhacker@hotmail.com)
+You can Donation me by sending money on nounhacker@hotmail.com ( PayPal )
+
+# Last word
+You can do anything u want under LGPLv3 LICENSE , but be sure to not delete our LICENSE ! ( Hema name )
