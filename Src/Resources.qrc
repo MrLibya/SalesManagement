@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/accept.png</file>
+        <file>icons/cancel.png</file>
+        <file>icons/Im_dollar.png</file>
+        <file>icons/Close-icon.png</file>
+        <file>icons/ok-icon.png</file>
+        <file>icons/Search-good-icon.png</file>
+        <file>icons/Monitoring-icon.png</file>
+        <file>icons/cart-add-icon.png</file>
+        <file>icons/cart-remove-icon.png</file>
+        <file>icons/Actions-window-close-icon.png</file>
+        <file>icons/sign-check-icon.png</file>
+        <file>icons/inside-logout-icon.png</file>
+        <file>icons/add-contact-icon.png</file>
+        <file>icons/contact-icon.png</file>
+        <file>icons/big_M6x_icon.ico</file>
+        <file>icons/big.ico</file>
+        <file>icons/mainicon.ico</file>
+        <file>icons/newcart.ico</file>
+    </qresource>
+</RCC>
