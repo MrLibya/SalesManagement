@@ -12,7 +12,7 @@ Knowledge of Qt
 ```
 
 ### Installing
-All of it are set and ok , u only need to compile to use it .
+All of it are set and ok , u only need to compile to use it , then put the DataBase ( SalesMangement.db ) in the same folder as the exe file.
 
 ## Deployment
 In C++ with Qt and Sqlite3 
