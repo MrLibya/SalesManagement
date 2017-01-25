@@ -19,3 +19,6 @@ In C++ with Qt and Sqlite3
 
 ## Authors
 * **Ibrahim Sluma* - *Student* - [FaceBook](https://www.facebook.com/ibrahim.sluma)
+
+# Donation
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](Nounhacker@hotmail.com)
