@@ -1,6 +1,9 @@
 # SalesManagement
 Or we can call it point of sale (POS) , With POS you can sell your products , Based on the products u have saved in the system ( amount , price ..etc).
 
+## Project Status
+This project is dead and will no longer be developed by its author. Please feel free to fork and continue its development.
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
