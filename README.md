@@ -1,3 +1,5 @@
+## I MADE THIS WHEN I WAS LEARNING C++, NOW I CAN SAY THAT THIS CODE IS HURTING MY EYES AND I DON'T RECOMMEND TO USE IT, ONLY FOR LEARNING OR TESTING.
+
 # SalesManagement
 Or we can call it point of sale (POS) , With POS you can sell your products , Based on the products u have saved in the system ( amount , price ..etc).
 
